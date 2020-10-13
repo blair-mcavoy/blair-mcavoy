@@ -22,7 +22,7 @@
       <div class="side">
         <h2>Course Overview</h2>
         <p>Introduction to Computer Science allows students to engage with computer science as a medium for creativity, communication, problem solving, and fun. Students will create computer programs including games and interactive media, develop their creative and computational thinking skills, and make personal connections to computing. Many young people with access to computers participate as consumers, rather than designers or creators. Introduction to Computer Science emphasizes the knowledge and practices young people need to create the types of dynamic and interactive computational media they enjoy in their daily lives. 
-        </p><img src="Intro to CS.png" width="350" height="200">
+        </p><img src="Intro-to-CS.png" width="350" height="200">
         <p>This course will follow Code.org’s CS Discoveries curriculum with an infusion of interest-based projects, industry-level tools and other learning platforms. Throughout the year, students will practice coding skills on Code.org’s interactive, guided platform. As skills become solidified, students can choose from a number of platforms to complete their projects.</p>
       </div>  
       
