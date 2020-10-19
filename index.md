@@ -16,7 +16,7 @@
     <header>
       <h1>Intro to Computer Science</h1>
     </header>
-    <a href="Layout2.html">See Rows Layout</a> 
+    <a href="Layout2.md">See Rows Layout</a> 
     <div class="row">
       
       <div class="side">
